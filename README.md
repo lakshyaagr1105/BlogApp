@@ -12,10 +12,9 @@
 <p> npm start </p>
 
 ## Screenshots
-<h1>blogApp</h1>
+
 ![](https://github.com/lakshyaagr1105/BlogApp/blob/main/blog-app/public/blogApp.png)
 
-<h1>Blog</h1>
 ![](https://github.com/lakshyaagr1105/BlogApp/blob/main/blog-app/public/blog.png)
 .<br>
 .<br>
