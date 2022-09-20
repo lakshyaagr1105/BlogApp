@@ -1,4 +1,4 @@
-# BlogApp
+# BlogApp 📝
 <p>Hello everyone here comes a blog app. 🗓</p>
 <p>Feel free to access the code.</p>
 <h1>Description</h1>
@@ -10,8 +10,16 @@
 <p> npm install </p>
 <h3>For starting the project, run the command after installation </h3>
 <p> npm start </p>
+
+## Screenshots
+<h1>blogApp</h1>
+![](https://github.com/lakshyaagr1105/BlogApp/blob/main/blog-app/public/blogApp.png)
+
+<h1>Blog</h1>
+![](https://github.com/lakshyaagr1105/BlogApp/blob/main/blog-app/public/blog.png)
 .<br>
 .<br>
 .<br>
 .<br>
 <h2> Happy hacking ;)</h2>
+
