@@ -13,9 +13,9 @@
 
 ## Screenshots
 
-![](https://github.com/lakshyaagr1105/BlogApp/blob/main/blog-app/public/blogApp.png)
+![](https://github.com/lakshyaagr1105/BlogApp/blob/main/public/blogApp.png)
 
-![](https://github.com/lakshyaagr1105/BlogApp/blob/main/blog-app/public/blog.png)
+![](https://github.com/lakshyaagr1105/BlogApp/blob/main/public/blog.png)
 .<br>
 .<br>
 .<br>
